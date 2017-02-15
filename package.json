@@ -1,0 +1,16 @@
+{
+  "name": "angular-declarative-grid",
+  "version": "1.0.0",
+  "description": "A deglarivtive angular grid component",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "angular",
+    "grid",
+    "table"
+  ],
+  "author": "Eugen <eugenistoc@gmail.com>",
+  "license": "MIT"
+}
